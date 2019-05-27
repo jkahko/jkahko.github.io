@@ -3,6 +3,7 @@ background-color: #b4b4b4;
 }
 
 h1 {
+
 font-family: "Comic Sans MS";
 font-size: 30px;
 color: #3c3c3c;
@@ -17,6 +18,7 @@ text-align: center;
 }
 
 p {
+background-color: #b4b4b4;  
 font-family: "Comic Sans MS";
 font-size: 20px;
 color: #3c3c3c;
